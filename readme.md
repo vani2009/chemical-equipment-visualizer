@@ -2,18 +2,11 @@
 ````markdown
 # 🚀 Chemical Equipment Visualizer
 
-[![GitHub stars](https://img.shields.io/github/stars/vani2009/chemical-equipment-visualizer?style=social)](https://github.com/vani2009/chemical-equipment-visualizer/stargazers)
-[![License](https://img.shields.io/github/license/vani2009/chemical-equipment-visualizer)](./LICENSE)
-[![Issues](https://img.shields.io/github/issues/vani2009/chemical-equipment-visualizer)](https://github.com/vani2009/chemical-equipment-visualizer/issues)
-
 **Chemical Equipment Visualizer** is a hybrid **Web + Desktop** application that allows users to upload chemical equipment datasets and generate meaningful analytics, visualizations, and professional PDF reports.
-
 This project was built as part of an **Intern Screening Task**, with a strong focus on clean architecture, data processing, and extensibility.
-
 ---
 
 ## 📌 Table of Contents
-
 - Features  
 - Tech Stack  
 - Demo Video  
@@ -22,18 +15,15 @@ This project was built as part of an **Intern Screening Task**, with a strong fo
 - Usage  
 - Future Improvements  
 - License  
-
 ---
 
 ## 🌟 Features
-
 - Upload and validate CSV files containing chemical equipment data  
 - Automatic computation of key statistics and summaries  
 - Visual charts generated from dataset parameters  
 - Export professional **PDF reports**  
 - Secure backend with authentication  
 - Modular architecture (Web + Desktop ready)
-
 ---
 
 ## 🛠️ Tech Stack
@@ -47,7 +37,6 @@ This project was built as part of an **Intern Screening Task**, with a strong fo
 | Frontend (Web) | React (in progress) |
 | Desktop App | Python-based |
 | Database | SQLite |
-
 ---
 
 ## 🎥 Demo Video
