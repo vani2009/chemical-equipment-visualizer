@@ -1,5 +1,3 @@
-
-````markdown
 # 🚀 Chemical Equipment Visualizer
 
 **Chemical Equipment Visualizer** is a hybrid **Web + Desktop** application that allows users to upload chemical equipment datasets and generate meaningful analytics, visualizations, and professional PDF reports.
